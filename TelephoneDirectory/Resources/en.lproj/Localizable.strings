@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  TelephoneDirectory
+
+  Created by Daniele Salvioni on 04/11/2019.
+  Copyright © 2019 Daniele Salvioni. All rights reserved.
+*/
+
+// GENERAL
+"info.title"                                                = "Info";
+"info.button"                                               = "Ok";
+"info.next"                                                 = "Next";
+"info.cancel"                                               = "Cancel";
+
+"attention.title"                                           = "Attention";
+"attention.button"                                          = "Ok";
+"attention.cancel"                                          = "Cancel";
+
+"error.title"                                               = "Error";
+"error.button"                                              = "Ok";
+"error.cancel"                                              = "Cancel";
+
+
+// VALIDATOR
+"validator.rule.mandatory.error"                            = "Must not be empty";
+"validator.rule.mail.error"                                 = "Must be valid email";
+"validator.rule.phoneNumber.error"                          = "Must be valid phone number. Ex: +XX XXX XXXXXX";
+
+
+// DATABASE
+"error.path.database"                                       = "Error loading database path";
+"error.load.database"                                       = "Error loading database file";
+"error.migration.database"                                  = "Error migration database file";
+
+
+// ACTIVITY
+"activity.get.title.message"                                = "Loading...";
+"activity.success.title.message"                            = "Success!";
+"activity.failure.title.message"                            = "Failure!";
+
+
+// CONTROLLER
+"Home.title"                                                = "Home";
+"Home.search.placeholder"                                   = "Search";
+"Add.title"                                                 = "Add New Entry";
+"Edit.title"                                                = "Edit Entry";
+"Import.title"                                              = "Import From Phone";
